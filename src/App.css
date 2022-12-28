@@ -1,0 +1,40 @@
+.nav{
+    display: flex;
+min-height: 70px;
+    box-shadow: 0px 2.98px 7.46px rgba(0, 0, 0, .1);
+    padding: 10px 30px;
+}
+
+.nav--logo{
+    width: 8rem;
+}
+
+.hero{
+    padding: 40px 30px;
+}
+
+.hero--img{
+    display: flex;
+  margin-left: auto;
+  margin-right: auto;
+    width: 85%;
+    margin-bottom: 30px;
+}
+
+.hero--sub_sec{
+    width: 70%;
+}
+
+.hero--title{
+    font-weight: 600;
+    font-size: 2rem;
+    line-height: 1.3em;
+    margin-bottom: 15px;
+}
+
+.hero--description{
+    font-weight: 300;
+    font-size: 1rem;
+    line-height: 1.4em;
+}
+
